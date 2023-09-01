@@ -1,0 +1,658 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.background{
+    background: url(pngwing\ 10.png) rgba(229, 84, 115, 0.10);
+   
+    width: 100%;
+height: 80vh;
+background-position: right;
+padding: 10px 5px;
+background-size: cover;
+
+background-size: 30%;
+
+
+ 
+background-repeat: no-repeat;
+
+
+
+
+
+
+}
+.tittlw{
+    padding-left: 10%;
+    padding-top: 30px;
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+
+line-height: normal;
+width: 100%;
+
+
+}
+.description1{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+
+padding-left: 130px;
+padding-top: 50px;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+
+line-height: 30px; 
+width:30%;
+
+
+
+
+display: flex;
+}
+.btn1{
+  margin-top: 40px;   
+  margin-left: 100px; 
+padding: 20px 43px;
+
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+border: none;
+text-decoration: none;
+}
+/* .feature-of-flowers{
+  
+    width: 100%;
+height: 100vh ;
+
+
+}
+.tittle2{
+    margin-top: 50px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.description2{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+margin: 50px;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+
+}
+.pink-flower-tree1{
+    border-radius: 300px 300px 0px 0px;
+
+background: url(pngwing\ 6.png), rgba(167, 33, 98, 0.15); 
+
+position: absolute;
+width: 25%;
+background-repeat: no-repeat;
+background-size: 80% ;
+background-position:1em 2.5em;
+height: 67vh;
+flex-shrink: 0;
+left: 10%;
+}
+.pink-flower-tree2{
+    border-radius: 300px 300px 0px 0px;
+
+    background: url(pngwing\ 5.png),  rgba(5, 151, 160, 0.15);
+  
+    
+    
+    position: absolute;
+    width: 25%;
+    background-repeat: no-repeat;
+    background-size: 80% ;
+    background-position:1em 4.2em;
+    height: 67vh;
+    flex-shrink: 0;
+    left: 37%;
+    
+}
+.pink-flower-tree3{
+    border-radius: 300px 300px 0px 0px;
+
+    background: url(pngwing\ 7.png),  rgba(71, 125, 17, 0.15);
+   
+    
+  
+    
+    
+    position: absolute;
+    width: 25%;
+    background-repeat: no-repeat;
+    background-size: 80% ;
+    background-position:1em 2.5em;
+    height: 67vh;
+    flex-shrink: 0;
+    left: 64%;
+    
+} */
+.feature-of-flowers{
+    justify-content: space-between;
+    width: 100%;
+  
+    
+height: 100vh ;
+
+margin-top: 180px
+
+
+;
+
+}
+
+.m7{
+ text-align: center;
+    color: #272727;
+
+
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.m8{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    
+    font-family: Lato;
+    margin: 50px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;  
+   
+}
+/* .mahin{
+   
+  background-color: rgba(167, 33, 98, 0.15);
+  width:30%;
+  height: 70vh;
+ border-radius: 300px 300px 0px 0px;
+ margin-top: 20px;
+ margin-left: 100px;
+ padding-left: 30px;
+ padding-top: 90px ;
+ background-repeat: no-repeat
+
+ 
+}
+.mahin1{
+    background-color: rgba(167, 33, 98, 0.15);
+    width:30%;
+    height: 70vh;
+   border-radius: 300px 300px 0px 0px;
+  margin-left: 40px;
+  margin-top: 20px;
+   
+  padding-top: 90px;
+  padding-left: 20px;
+   background-repeat: no-repeat
+   
+}
+.mahin2{
+  
+    background-color: rgba(167, 33, 98, 0.15);
+    width:30%;
+    height: 77vh;
+   border-radius: 300px 300px 0px 0px;
+  margin-left: 40px;
+  margin-top: 20px;
+   
+   padding-left: 30px;
+   padding-top: 45px ; */
+
+/* } */
+.m0{
+    
+    display: flex;
+    width: 90%;
+   gap: 30px;
+ margin: 100px;
+
+ 
+ 
+}
+.mahin{
+    background: url(pngwing\ 6.png) , lightgray 50% / cover no-repeat;
+    width: 90%;
+    height: 70vh;
+    background-size: 250px;
+    background-position: 4em 7.5em;
+   border-radius: 300px 300px 0px 0px;
+   background-repeat:no-repeat ;
+   
+}
+.mahin1{
+    background: url(pngwing\ 5.png) , lightgray 50% / cover no-repeat;
+    width: 90%;
+    height: 70vh;
+    background-size: 250px;
+    background-position: 4em 7.5em;
+   border-radius: 300px 300px 0px 0px;
+   background-repeat:no-repeat ;
+ 
+}
+.mahin2{
+    width: 90%;
+    background: url(pngwing\ 7.png) , lightgray 50% / cover no-repeat;
+    background-size: 250px;
+    background-position: 4em 5.5em;
+   border-radius: 300px 300px 0px 0px;
+   background-repeat:no-repeat ;
+   
+  
+ 
+}
+.flower-name1{
+    color: #272727;
+position: relative;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; 
+text-decoration-line: underline;
+top: 67%;
+left: 15%;
+}
+.flower-name2{
+    color: #272727;
+    position: relative;
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; 
+text-decoration-line: underline;
+top:61% ;
+left: 42%;
+}
+.flower-name3{
+    color: #272727;
+    position: relative;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; 
+text-decoration-line: underline;
+top: 55%;
+left: 70%;
+} 
+
+.content{
+    border-radius: 8px;
+    background: rgba(29, 23, 190, 0.05);
+   padding: 50px;
+   margin-top: 100px;
+    position: relative;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    width: 60%;
+height: 150px;
+font-size: 15px;
+top: 100px;
+left: 15%;
+
+
+background-repeat: no-repeat;
+
+}
+.flower-sale{
+    background: url(pngwing\ 8.png) ,
+     rgba(229, 84, 115, 0.05);
+     border-radius: 8px;
+    position: relative;
+    justify-content: space-around;
+    text-align: center;
+    display: flex;
+    background-position: 90%;
+    background-repeat: no-repeat;
+ width: 100%;
+ height: 500px;
+flex-shrink: 0;
+top: 170px;
+left: 0px;
+}
+.tittle3{
+  position: relative;
+  left: 230px;
+  top: 120px;
+  font-size: 23px;
+}
+.off{
+    color: #E55473;
+font-family: Lato;
+display: inline;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.description4{
+    text-align: center;
+   position: relative;
+    width: 500px; 
+    top: 200px;
+    right: 440px;
+    justify-content: center;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+
+}
+.btn2{
+  
+    position: relative;
+    top: 20px;
+    line-height: normal;
+    background: #E55473;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 25px
+ 
+    
+
+}
+.text1{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration: none;
+}
+.flowers-varity{
+    margin-top: 240px;
+   
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 800;
+line-height: normal; 
+position: relative;
+
+}
+.Insta-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    margin: 50px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.flowe1{
+    background: url(Flower\ 01.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    left: 17%;   
+    top: 200px;
+    position: absolute;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    
+
+}
+.flowe2{
+    background: url(Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    left: 24%;
+    top: 120px;
+    
+    justify-content: center;   
+    background-position: 100%;
+   display: inline-block;
+    position: absolute;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    
+
+}
+.flowe3{
+    background: url(Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    left: 41%;
+    top: 120px;
+    
+    justify-content: center;   
+    background-position: 100%;
+   display: inline-block;
+    position: absolute;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    
+
+}
+.flowe4{
+    background: url(Rectangle\ 6.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    left: 58%;
+    top: 120px;
+    
+    justify-content: center;   
+    background-position: 100%;
+   display: inline-block;
+    position: absolute;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    
+
+}
+.flowernew{
+    background: url(Rectangle\ 9.png);
+    position: absolute;
+    justify-content: center;
+    display: flex;
+}
+
+.title4{
+    position: relative;
+    text-align: center;
+    top: 110px;
+    left: 240px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.description5{
+    position: relative;
+    top: 140px;
+    left: 12px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+    
+}
+.flower_new{
+    background: url(Rectangle\ 9.png);
+    position: relative;
+    justify-content: center;
+    display: flex;
+    height: 60vh;
+    width: 85%;
+    background-size:56em 20em ;
+    background-repeat: no-repeat;
+   
+    top: 350px;
+    left: 230px;
+}
+input{
+ padding: 10px;
+display: flex;
+position: relative;
+justify-content: center;
+width: 350px;
+height: 30px;
+flex-shrink: 0;
+top: 200px;
+right: 350px;
+border-radius: 5px;
+border: none;
+
+}
+.btn3{
+    border-radius: 8px;
+background: #E55473;
+position: relative;
+
+top: 200px;
+right: 330px;
+width: 130px;
+height: 50px;
+flex-shrink: 0;
+
+border: none;
+}
+.text3{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration: none;
+}
+.text{
+    text-decoration: none;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.footer{
+    background: #111010;
+    position: relative;
+    width: 100%;
+height: 449px;
+flex-shrink: 0;
+justify-content: center;
+display: flex;
+top: 400px;
+}
+
+.footertittle{
+    position: relative;
+    top: 100px;
+    left: 370px;
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.titleColor{
+    color: #FFF;
+    display: inline;
+font-family: Lato;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+
+.footer_des_1{
+    color: rgba(255, 255, 255, 0.90);
+    position: relative;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+top: 185px;
+}
+.footer_des_2{
+    color: rgba(255, 255, 255, 0.40);
+    position: relative;
+    top: 300px;
+    right: 450px;
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.extra{
+    background-image: url(Thank_you_card_with_white_pink_watercolor_floral.jpg);
+    position: relative;
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    top: 400px;
+    margin-top: 100px;
+}
+.tit_{
+    position: relative;
+    text-align: center;
+   left: 10%;
+    top: -320px;
+    width: 80%;
+    color: #E55473;
+ 
+   
+}
+.qoute{
+    position: relative;
+   top: -340px;
+    width: 100%;
+    left: 600px;
+    font-size: 90px;
+    color: #E55473;
+   
+}
